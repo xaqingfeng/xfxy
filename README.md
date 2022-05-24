@@ -8,7 +8,7 @@
 
 ## v2ray-heroku
 
-[![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/qq198812/Hreoku.git)https://heroku.com/deploy?template=
+[![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=(https://github.com/fangziqing/haov2))https://heroku.com/deploy?template=https://github.com/用户字和项目地址
 
 ## 注意事项
 ### heroku上部署v2ray
